@@ -4,17 +4,17 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Daniel
 tagline:          'blog'
-description:      'My personal blog.'
-url:              http://camporez.github.io
+description:      'A daily blog to report the development of my research in digital fabrication.'
+url:              http://ddesouza1991.github.io
 baseurl:          
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           Daniel Goncalves
+  url:            
 
 paginate:         5
 
@@ -23,20 +23,13 @@ icon:             /assets/images/icon.png
 cover:            /assets/images/cover.jpg
 
 social:
-  - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
 
   - icon:         github
-    url:          https://github.com/camporez
+    url:          https://github.com/ddesouza1991
     desc:         Fork me on github
 
-  - icon:         googleplus-alt
-    url:          https://google.com/+IanCamporezBrunelli
-    desc:         Add me on google+
-
   - icon:         feed
-    url:          http://camporez.github.io/atom.xml
+    url:          http://ddesouza1991.github.io/atom.xml
     desc:         Subscribe to my feed
 
 menu:
