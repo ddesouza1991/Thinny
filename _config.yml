@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-icon:             /assets/images/Perfil.PNG
+icon:             /assets/images/Perfil.png
 cover:            /assets/images/Computer_Chip.jpg
 
 social:
