@@ -3,7 +3,7 @@ layout: post
 title: "Shadows"
 quote: "How shadows can transfort the internal enviroment"
 image:
-      url: /media/2014-02-27-hello-cosette/cover.jpg
+      url: /media/2014-02-27-hello-cosette/image_1.jpg
 video: false
 comments: true
 theme_color: 302F2D
