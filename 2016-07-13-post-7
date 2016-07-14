@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Experiments _01"
+
+image:
+      url: /media/2016-07-13-post-7/image_cover.jpg
+video: false
+comments: false
+theme_color: 302F2D
+---
+
+{% include image.html url="/media/2016-07-13-post-7/image_1.jpg" width="100%" description="" %}
+{% include image.html url="/media/2016-07-13-post-7/image_2.jpg" width="100%" description="" %}
+{% include image.html url="/media/2016-07-13-post-7/image_3.jpg" width="100%" description="" %}
+{% include image.html url="/media/2016-07-13-post-7/image_4.jpg" width="100%" description="" %}
+{% include image.html url="/media/2016-07-13-post-7/image_5.jpg" width="100%" description="" %}
+{% include image.html url="/media/2016-07-13-post-7/image_6.jpg" width="100%" description="" %}
+
